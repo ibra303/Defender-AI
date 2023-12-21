@@ -25,7 +25,7 @@ Future Modifications:
     * Security Measures: Implements encryption and authentication mechanisms to ensure system integrity.
 
 
-    * Remote Access: Enables users to remotely access the system, view live feeds, and manage settings through the Telegram bot interface.
+    * Remote Access: Enables users to remotely access the system, view live feeds, and manage settings through the Telegram interface.
 
 
 
