@@ -7,9 +7,11 @@ Defender-AI is an open-source software designed for real-time motion monitoring 
 Clone the repository: git clone https://github.com/ibra303/Defender-AI.git
 Follow the installation instructions in the Documentation.
 
+
 # Contributing
 
 We welcome contributions! Check out the Contribution Guidelines before getting started.
+
 
 
 Done Features :
@@ -37,6 +39,8 @@ Future Modifications:
 
     * Remote Access: Enables users to remotely access the system, view live feeds, and manage settings through the Telegram interface.
 
+    
+
 
 
 # Familiar face detected with motion in the room:
@@ -47,6 +51,7 @@ Future Modifications:
 # Defender-AI reaction: Sends a welcome message to the user.
                                                                                                             
    ![WhatsApp Image 2023-12-21 at 15 31 58](https://github.com/ibra303/Defender-AI/assets/94124916/6a4d3928-930c-4389-ba86-0e09ea750466)
+
 
 
 
