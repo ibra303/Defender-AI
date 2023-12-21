@@ -23,7 +23,7 @@ Remote Access: Depending on the design, users may have the ability to remotely a
 
 
 
-![image](https://github.com/ibra303/Defender-AI/assets/94124916/4b37278a-43f3-4475-b708-c1816f5baee4 | width=100)![WhatsApp Image 2023-12-21 at 15 31 58](https://github.com/ibra303/Defender-AI/assets/94124916/c3b20f31-97bb-45c5-907b-18bf0ad477ca = 350x350)
+![image](https://github.com/ibra303/Defender-AI/assets/94124916/4b37278a-43f3-4475-b708-c1816f5baee4 | width=350)![WhatsApp Image 2023-12-21 at 15 31 58](https://github.com/ibra303/Defender-AI/assets/94124916/c3b20f31-97bb-45c5-907b-18bf0ad477ca = 350x350)
 
 
 ![image](https://github.com/ibra303/Defender-AI/assets/94124916/897529b9-85f7-4159-9ace-a701455065d0 = =350x350 )![WhatsApp Image 2023-12-21 at 15 31 53](https://github.com/ibra303/Defender-AI/assets/94124916/069fea5f-525f-4248-be96-008eae977388 = 350x350)
