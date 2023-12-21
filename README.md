@@ -4,7 +4,7 @@ Defender-AI is an open-source software designed for real-time motion monitoring 
 
 # Getting Started
 
-Clone the repository: git clone https://github.com/your-username/defender-ai.git
+Clone the repository: git clone https://github.com/ibra303/Defender-AI.git
 Follow the installation instructions in the Documentation.
 
 # Contributing
