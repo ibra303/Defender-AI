@@ -31,23 +31,23 @@ Future Modifications:
 
 # Familiar face detected with motion in the room:
 
-  ![image](https://github.com/ibra303/Defender-AI/assets/94124916/4b37278a-43f3-4475-b708-c1816f5baee4)
+   ![image](https://github.com/ibra303/Defender-AI/assets/94124916/4b37278a-43f3-4475-b708-c1816f5baee4)
 
 
-                                                                                                            # Defender-AI reaction: Sends a welcome message to the user.
+# Defender-AI reaction: Sends a welcome message to the user.
                                                                                                             
-                                                                                                              ![WhatsApp Image 2023-12-21 at 15 31 58](https://github.com/ibra303/Defender-AI/assets/94124916/faf6963d-77bb-41b4-b58f-d52d7c9708ff)
+   ![WhatsApp Image 2023-12-21 at 15 31 58](https://github.com/ibra303/Defender-AI/assets/94124916/faf6963d-77bb-41b4-b58f-d52d7c9708ff)
 
 
 
 
 # Unfamiliar face detected with motion in the room:
 
-  ![image](https://github.com/ibra303/Defender-AI/assets/94124916/897529b9-85f7-4159-9ace-a701455065d0)
+   ![image](https://github.com/ibra303/Defender-AI/assets/94124916/897529b9-85f7-4159-9ace-a701455065d0)
 
 
 # Defender-AI reaction: Sends an alert message including a 5-second recorded video since the motion is detected.
 
-  ![WhatsApp Image 2023-12-21 at 15 31 53](https://github.com/ibra303/Defender-AI/assets/94124916/a2b71249-07f4-4e1a-a646-e19b0e4ee135)
+   ![WhatsApp Image 2023-12-21 at 15 31 53](https://github.com/ibra303/Defender-AI/assets/94124916/a2b71249-07f4-4e1a-a646-e19b0e4ee135)
 
 
