@@ -36,7 +36,7 @@ Future Modifications:
 
 # Defender-AI reaction: Sends a welcome message to the user.
                                                                                                             
-   ![WhatsApp Image 2023-12-21 at 15 31 58](https://github.com/ibra303/Defender-AI/assets/94124916/1853cff9-0dc2-4bf1-83cf-ea1e54b4dd74)
+   ![WhatsApp Image 2023-12-21 at 15 31 58](https://github.com/ibra303/Defender-AI/assets/94124916/6a4d3928-930c-4389-ba86-0e09ea750466)
 
 
 
@@ -48,7 +48,7 @@ Future Modifications:
 
 # Defender-AI reaction: Sends an alert message including a 5-second recorded video since the motion is detected.
 
-   ![WhatsApp Image 2023-12-21 at 15 31 53](https://github.com/ibra303/Defender-AI/assets/94124916/00621cfd-3f99-4c72-8843-77752621fb76)
+   ![WhatsApp Image 2023-12-21 at 15 31 53](https://github.com/ibra303/Defender-AI/assets/94124916/ebdaab24-9cb0-4629-8dcf-84a965aa5b45)
 
 
 
