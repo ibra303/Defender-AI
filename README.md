@@ -2,22 +2,32 @@
 
 Defender-AI is an open-source software designed for real-time motion monitoring in a user's environment. Leveraging advanced motion detection mechanisms and integration with Telegram, it provides instant alerts to users when unusual activity is detected.
 
-Features
-Done:
+Done Features :
 
-Motion Detection: Utilizes sensors or cameras with computer vision algorithms for accurate motion detection.
+  Motion Detection: Utilizes sensors or cameras with computer vision algorithms for accurate motion detection.
+  
 
-Alert Generation: Generates alerts based on predefined criteria, such as intensity and duration of detected motion.
+  Alert Generation: Generates alerts based on predefined criteria, such as intensity and duration of detected motion.
+  
 
-Integration with Telegram: Sends real-time alerts to the user's Telegram bot chat for immediate notification.
+  Integration with Telegram: Sends real-time alerts to the user's Telegram bot chat for immediate notification.
+  
 
-User Configuration: Allows users to configure sensitivity, set alert thresholds, and customize parameters.
+  User Configuration: Allows users to configure sensitivity, set alert thresholds, and customize parameters.
+  
+    
 
 Future Modifications:
 
+
 Logging and History: Maintains a comprehensive log of motion events and alerts for historical review.
+
+
 Security Measures: Implements encryption and authentication mechanisms to ensure system integrity.
+
+
 Remote Access: Enables users to remotely access the system, view live feeds, and manage settings through the Telegram bot interface.
+
 
 
 # Familiar face detected with motion in the room:
