@@ -2,6 +2,16 @@
 
 Defender-AI is an open-source software designed for real-time motion monitoring in a user's environment. Leveraging advanced motion detection mechanisms and integration with Telegram, it provides instant alerts to users when unusual activity is detected.
 
+# Getting Started
+
+Clone the repository: git clone https://github.com/your-username/defender-ai.git
+Follow the installation instructions in the Documentation.
+
+# Contributing
+
+We welcome contributions! Check out the Contribution Guidelines before getting started.
+
+
 Done Features :
 
     * Motion Detection: Utilizes sensors or cameras with computer vision algorithms for accurate motion detection.
