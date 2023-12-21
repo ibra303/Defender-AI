@@ -20,3 +20,6 @@ Logging and History: Defender-AI might keep a log of motion events and alerts, a
 Security Measures: To ensure the integrity and security of the system, Defender-AI may implement encryption and authentication mechanisms, preventing unauthorized access or tampering.
 
 Remote Access: Depending on the design, users may have the ability to remotely access the system, view live feeds, or manage settings through the Telegram bot interface.
+
+
+![image](https://github.com/ibra303/Defender-AI/assets/94124916/4b37278a-43f3-4475-b708-c1816f5baee4)
