@@ -34,9 +34,11 @@ Future Modifications:
   ![image](https://github.com/ibra303/Defender-AI/assets/94124916/4b37278a-43f3-4475-b708-c1816f5baee4)
 
 
-# Defender-AI reaction: Sends a Welcome message to the user.
+                                                                                                            # Defender-AI reaction: Sends a welcome message to the user.
+                                                                                                            
+                                                                                                              ![WhatsApp Image 2023-12-21 at 15 31 58](https://github.com/ibra303/Defender-AI/assets/94124916/faf6963d-77bb-41b4-b58f-d52d7c9708ff)
 
-  ![WhatsApp Image 2023-12-21 at 15 31 58](https://github.com/ibra303/Defender-AI/assets/94124916/faf6963d-77bb-41b4-b58f-d52d7c9708ff)
+
 
 
 # Unfamiliar face detected with motion in the room:
