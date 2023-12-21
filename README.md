@@ -22,6 +22,7 @@ Security Measures: To ensure the integrity and security of the system, Defender-
 Remote Access: Depending on the design, users may have the ability to remotely access the system, view live feeds, or manage settings through the Telegram bot interface.
 
 
+<img src="https://your-image-url.type](https://github.com/ibra303/Defender-AI/assets/94124916/4b37278a-43f3-4475-b708-c1816f5baee4" width="100" height="100">
 ![image](https://github.com/ibra303/Defender-AI/assets/94124916/4b37278a-43f3-4475-b708-c1816f5baee4 =350x350)![WhatsApp Image 2023-12-21 at 15 31 58](https://github.com/ibra303/Defender-AI/assets/94124916/c3b20f31-97bb-45c5-907b-18bf0ad477ca = 350x350)
 
 
