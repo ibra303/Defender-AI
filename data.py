@@ -5,8 +5,8 @@ import os
 import cv2
 
 # Telegram Channel Bot Token and Channel ID
-TOKEN = '6986314525:AAEPsbfUdyRuItgnVIv2OtekqouxTqDmurU'
-CHANNEL_ID = '@DefenderAI'
+TOKEN = "" # your token
+CHANNEL_ID = "" # your channel id
 
 # Folder path containing the reference pictures
 folder_path = "pics"
